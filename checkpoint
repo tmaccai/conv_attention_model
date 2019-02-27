@@ -1,0 +1,2 @@
+model_checkpoint_path: "cran_model"
+all_model_checkpoint_paths: "cran_model"
